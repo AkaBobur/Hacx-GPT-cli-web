@@ -200,9 +200,7 @@ The first time you run it, you will be prompted to enter your API key. It will b
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-<a href="https://github.com/BlackTechX011/Hacx-GPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlackTechX011/Hacx-GPT" />
-</a>
+<a href="https://github.com/BlackTechX011/Hacx-GPT/graphs/contributors"></a>
 
 ---
 
