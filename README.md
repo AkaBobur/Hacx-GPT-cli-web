@@ -16,7 +16,6 @@
   <!-- Badges -->
   <p>
     <a href="https://github.com/BlackTechX011/Hacx-GPT" title="View on GitHub"><img src="https://img.shields.io/static/v1?label=BlackTechX&message=Hacx-GPT&color=blue&logo=github" alt="BlackTechX - Hacx-GPT"></a>
-    <a href="https://github.com/BlackTechX011/Hacx-GPT/stargazers"><img src="https://img.shields.io/github/stars/BlackTechX011/Hacx-GPT?style=social" alt="GitHub Stars"></a>
     <a href="https://github.com/BlackTechX011/Hacx-GPT/network/members"><img src="https://img.shields.io/github/forks/BlackTechX011/Hacx-GPT?style=social" alt="GitHub Forks"></a>
     <br>
     <img src="https://img.shields.io/github/last-commit/BlackTechX011/Hacx-GPT?color=green&logo=github" alt="Last Commit">
